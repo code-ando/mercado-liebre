@@ -1,0 +1,31 @@
+.footer {
+    
+    background-color:white;
+    padding: 20px 0;
+}
+.footer .info {
+    text-align: center;
+    padding: 20px 50px;
+}
+.footer .info p{
+   color: var(--GrisOscuro);
+   font-size: 12px;
+}
+.footer h3{
+    font-size: 16px;
+    color: var(--GrisOscuro);
+}
+.footer .info i{
+    color: var(--Celeste);
+    font-size: 2em;
+    margin-bottom: 10px;
+    
+}
+.footer  .copy{
+   color: var(--GrisOscuro);
+   margin-left: 10px;
+   font-size: 12px;
+ 
+  
+
+}
